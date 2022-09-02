@@ -10,6 +10,7 @@ object barba {
 
 object mascaraDracula {
 	var tamanio = 2
+	var capacidadDeSusto = 0
 
 
 }
